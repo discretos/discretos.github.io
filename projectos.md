@@ -5,7 +5,9 @@ title: Projectos
 
 Encontre os projectos separados pelas seguintes secções:
 
+```python
+s = "A serem cozinhados! Só um momento."
+print s
+```
 
-## Projectos
-
-A serem cozinhados! Só um momento.
+[![Vídeo](http://img.youtube.com/vi/zEQ0L1AYyD0/0.jpg)](http://www.youtube.com/watch?v=zEQ0L1AYyD0)
